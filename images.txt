@@ -1,1 +1,1 @@
-ollama/ollama
+kubernetes/pause:3.1

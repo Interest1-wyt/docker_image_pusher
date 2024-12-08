@@ -1,1 +1,1 @@
-kubernetes/pause:3.1
+pause:3.1

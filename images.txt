@@ -1,1 +1,1 @@
-minio
+opstool/kylin:4.0.2

@@ -1,1 +1,1 @@
-wusuopu/dameng:dm8
+emqx/emqx:latest-arm64v8

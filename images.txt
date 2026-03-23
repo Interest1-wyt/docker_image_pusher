@@ -1,1 +1,1 @@
-emqx/emqx:latest-arm64v8
+atlassian/confluence-servert:latest-arm64v8
